@@ -2,19 +2,16 @@
 
 Wiki Pages
 ----------
-Home
-
+- Home
 - Hardware
     - BOM
     - Design 
     - Assembly 
     - Config
     - Datasheets
-
-Software 
+- Software 
     - Nano SD card setup
-
-Getting Started
+- Getting Started
 
 
 Files
@@ -23,7 +20,6 @@ Files
     - Design (.svg, .scad, .stl, .pdf)
     - Datasheets
     - Resources
-
 - gazebo
     - edubot_2wd
         - meshes (.dae)
@@ -31,7 +27,6 @@ Files
         - sdf (.sdf, .config)
     - install_edubot_model.sh
     - Readme.md
-
-scripts
-notebooks
-src 
+- scripts
+- notebooks
+- src 
