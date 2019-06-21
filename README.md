@@ -4,7 +4,7 @@ Wiki Pages
 ----------
 Home
 
-Hardware
+- Hardware
     - BOM
     - Design 
     - Assembly 
