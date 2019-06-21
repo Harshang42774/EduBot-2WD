@@ -19,12 +19,12 @@ Getting Started
 
 Files
 -----
-Docs
+- Docs
     - Design (.svg, .scad, .stl, .pdf)
     - Datasheets
     - Resources
 
-gazebo
+- gazebo
     - edubot_2wd
         - meshes (.dae)
         - urdf (.xacro, .gazebo)
